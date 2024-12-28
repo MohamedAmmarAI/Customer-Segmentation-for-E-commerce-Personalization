@@ -5,17 +5,6 @@ This project leverages K-means clustering and Principal Component Analysis (PCA)
 
 ---
 
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Dataset Information](#dataset-information)
-3. [Methodology](#methodology)
-4. [Results and Insights](#results-and-insights)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [License](#license)
-
----
-
 ## Project Overview
 E-commerce businesses aim to understand their customers to deliver tailored experiences. Using unsupervised learning techniques such as K-means clustering combined with PCA, this project segments customers into meaningful groups based on their purchasing behaviors. These segments enable businesses to implement targeted marketing campaigns and improve customer satisfaction.
 
@@ -95,4 +84,4 @@ Customized marketing strategies are devised for each segment, enhancing:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/project-name.git
+   git clone https://github.com/MohamedAmmarAI/Customer-Segmentation-for-E-commerce-Personalization.git
